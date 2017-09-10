@@ -1,0 +1,15 @@
+Name: Yishuo Wang
+ID: 108533945
+
+Using   1. Visual Studio 2013
+	2. OpenCV 2.4.10 version	
+	3. Gaussing filter kernel:
+	        Theory: http://www.pixelstech.net/article/1353768112-Gaussian-Blur-Algorithm
+		Function: http://www.voidcn.com/blog/sulanqing/article/p-2233820.html
+	   Connecting these two webpage theory and function, I did some change on the function.
+	4. In the ..\interval_filtering\interval_filtering, which is the default path of reading image, I put some images there. You can just change the file name 
+	in the "filter.cpp".
+	5. In the code part, I comment some code. Because in the beginning, I use some cv::filter that OpenCV provided, and then I write my own filters.(But my way is slow)
+	   Also, in order to improve the efficiency, I comment some my slow "for loop" code, and implement some matrix computing.
+
+		
