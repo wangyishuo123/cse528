@@ -1,7 +1,7 @@
 Name: Yishuo Wang
 ID: 108533945
 
-Using   1. Visual Studio 2013£¨not test 15£©
+Using   1. Visual Studio 2013(not test 15)
 	2. OpenCV 2.4.10 version	
 	3. Gaussing filter kernel:
 	        Theory: http://www.pixelstech.net/article/1353768112-Gaussian-Blur-Algorithm
